@@ -1,25 +1,31 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumBinaryTree", "MaximumBinaryTree.csproj", "{E6C80872-C27E-43A0-BF58-A0F61504B34F}"
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximumBinaryTree", "MaximumBinaryTree.csproj", "{E6C80872-C27E-43A0-BF58-A0F61504B34F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxBST.Unit.Test", "MaxBST.Unit.Test\MaxBST.Unit.Test.csproj", "{89F5E43F-FEA9-4D91-BF45-DBD677FC4FDD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxBST.Unit.Test", "MaxBST.Unit.Test\MaxBST.Unit.Test.csproj", "{89F5E43F-FEA9-4D91-BF45-DBD677FC4FDD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTarget", "FindTarget\FindTarget.csproj", "{24866792-67DF-42B7-91D4-A472F9410D30}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindTarget", "FindTarget\FindTarget.csproj", "{24866792-67DF-42B7-91D4-A472F9410D30}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{7E4091F5-3B38-4D62-B7E0-C7DE802914C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "Common\Common.csproj", "{7E4091F5-3B38-4D62-B7E0-C7DE802914C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTarget.Unit.Tests", "FindTarget.Unit.Tests\FindTarget.Unit.Tests.csproj", "{0687DCEB-4860-4DC3-AC6F-3C3F77D19FE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindTarget.Unit.Tests", "FindTarget.Unit.Tests\FindTarget.Unit.Tests.csproj", "{0687DCEB-4860-4DC3-AC6F-3C3F77D19FE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsSubTree", "IsSubTree\IsSubTree.csproj", "{71AF86AB-B69F-42EB-9D5C-DB399676ED6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsSubTree", "IsSubTree\IsSubTree.csproj", "{71AF86AB-B69F-42EB-9D5C-DB399676ED6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsSubTree.Unit.Test", "IsSubTree.Unit.Test\IsSubTree.Unit.Test.csproj", "{595B8EC0-A1A6-47AB-80E2-E2DB84B634C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsSubTree.Unit.Test", "IsSubTree.Unit.Test\IsSubTree.Unit.Test.csproj", "{595B8EC0-A1A6-47AB-80E2-E2DB84B634C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeLevelOrderTraversal", "BinaryTreeLevelOrderTraversal\BinaryTreeLevelOrderTraversal.csproj", "{D4E597B6-92DC-4E8B-A80B-B486752B7218}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryTreeLevelOrderTraversal", "BinaryTreeLevelOrderTraversal\BinaryTreeLevelOrderTraversal.csproj", "{D4E597B6-92DC-4E8B-A80B-B486752B7218}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeOrderTraversal.Unit.Tests", "BinaryTreeOrderTraversal.Unit.Tests\BinaryTreeOrderTraversal.Unit.Tests.csproj", "{9BEF5E72-8BB9-4498-97FB-39DDFC33D162}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryTreeOrderTraversal.Unit.Tests", "BinaryTreeOrderTraversal.Unit.Tests\BinaryTreeOrderTraversal.Unit.Tests.csproj", "{9BEF5E72-8BB9-4498-97FB-39DDFC33D162}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeVerticalOrderTraversal", "BinaryTreeVerticalOrderTraversal\BinaryTreeVerticalOrderTraversal.csproj", "{6B7BDF89-AD81-4B4D-9BB3-0DAD1BD0AEDC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryTreeVerticalOrderTraversal", "BinaryTreeVerticalOrderTraversal\BinaryTreeVerticalOrderTraversal.csproj", "{6B7BDF89-AD81-4B4D-9BB3-0DAD1BD0AEDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerticalOrderTraversal", "..\VerticalOrderTraversal\VerticalOrderTraversal.csproj", "{350C7106-47CF-4D75-ABA4-CAACDB9F1410}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerticalOrderTraversal.Unit.Tests", "VerticalOrderTraversal.Unit.Tests\VerticalOrderTraversal.Unit.Tests.csproj", "{8FB49C29-4A38-4930-956B-BA140E8B2CF9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -67,5 +73,19 @@ Global
 		{6B7BDF89-AD81-4B4D-9BB3-0DAD1BD0AEDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B7BDF89-AD81-4B4D-9BB3-0DAD1BD0AEDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B7BDF89-AD81-4B4D-9BB3-0DAD1BD0AEDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{350C7106-47CF-4D75-ABA4-CAACDB9F1410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{350C7106-47CF-4D75-ABA4-CAACDB9F1410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{350C7106-47CF-4D75-ABA4-CAACDB9F1410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{350C7106-47CF-4D75-ABA4-CAACDB9F1410}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FB49C29-4A38-4930-956B-BA140E8B2CF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FB49C29-4A38-4930-956B-BA140E8B2CF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FB49C29-4A38-4930-956B-BA140E8B2CF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FB49C29-4A38-4930-956B-BA140E8B2CF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C812172B-7DF5-49FE-A891-2F40374E044E}
 	EndGlobalSection
 EndGlobal
